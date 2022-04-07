@@ -125,7 +125,7 @@ def qsbuy():
 
     try:
 
-        bt = ('https://pastebin.com/raw/FGzFtJ3j')
+        bt = ('https://pastebin.com/raw/qjp8kJ26')
 
         r = (requests.get(bt).text)
 
@@ -251,7 +251,7 @@ def xchker():
 
     try:
 
-        bt = ('https://pastebin.com/raw/FGzFtJ3j')
+        bt = ('https://pastebin.com/raw/qjp8kJ26')
 
         r = (requests.get(bt).text)
 
